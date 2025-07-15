@@ -1,0 +1,6 @@
+com/runnerapp/model/Distance.class
+com/runnerapp/controller/RunnerController.class
+com/runnerapp/RunnerAppApplication.class
+com/runnerapp/model/Runner.class
+com/runnerapp/model/Pace.class
+com/runnerapp/model/Group.class
